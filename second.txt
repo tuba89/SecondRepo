@@ -1,0 +1,6 @@
+Greeting,
+This new file for cloning purpose, this time is use ssh cloning from GitHub.
+I firt create repository in GitHub and copy the ssh link to clone it
+to get the replica 
+That's it.
+Best
